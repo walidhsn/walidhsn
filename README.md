@@ -1,6 +1,7 @@
+[![MasterHead](https://govtech.cloud/assets/images/GTC_Img/Home/10-Must-Know-Cloud-Computing-Facts-of-2020.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Walid ben Hassouna</h1>
 <h3 align="center">A dedicated Computer Science Engineering student specializing in IT Architecture & Cloud Computing</h3>
-
+<img align="right" alt="Cloud_computing" width="300" height="300" src="https://nife.io/wp-content/uploads/2022/08/cloud.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=walidhsn&label=Profile%20views&color=0e75b6&style=flat" alt="walidhsn" /> </p>
 
 - 🔭 I’m currently working on a **project management web application**
