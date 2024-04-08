@@ -1,4 +1,4 @@
-<img align="center" alt="banner" width="1024" height="380" src="https://govtech.cloud/assets/images/GTC_Img/Home/10-Must-Know-Cloud-Computing-Facts-of-2020.gif">
+[![MasterHead](https://fptsoftware.com/-/media/project/fpt-software/fso/services/cloud/header-banner-desktop.webp?iar=0&modified=20231002171705&hash=E6D69346FC805CA03CEDA0C4E842CE3D)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Walid ben Hassouna</h1>
 <h3 align="center">A dedicated Computer Science Engineering student specializing in IT Architecture & Cloud Computing</h3>
 <img align="right" alt="Cloud_computing" width="300" height="300" src="https://nife.io/wp-content/uploads/2022/08/cloud.gif">
