@@ -1,4 +1,4 @@
-[![MasterHead](https://www.safeaeon.com/assets/img/CloudMonitoring_banner.jpg)](https://rishavchanda.io)
+[![MasterHead](https://criterionsystems.co.uk/wp-content/uploads/2017/08/banner6-1028x300.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Walid ben Hassouna</h1>
 <h3 align="center">A dedicated Computer Science Engineering student specializing in IT Architecture & Cloud Computing</h3>
 <img align="right" alt="Cloud_computing" width="300" height="300" src="https://nife.io/wp-content/uploads/2022/08/cloud.gif">
