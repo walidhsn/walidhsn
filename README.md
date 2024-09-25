@@ -6,11 +6,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=walidhsn&label=Profile%20views&color=0e75b6&style=flat" alt="walidhsn" /> </p>
 <p align="left"><a href="https://walidhsn.netlify.app"> <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a></p>
 
-- 🔭 I’m currently working on a **project management web application**
+- 🔭 I’m currently working on **Building a production IaaS with OpenStack**
 
-- 🤝 I’m looking for a **summer internship**
+- 🤝 I’m looking for a **End-of-studies Internship**
 
-- 📫 How to reach me **walid.benhassouna@esprit.tn**
+- 📫 How to reach me **walid.benhassouna@gmail.com**
 
 <h3 align="left"> 💬Connect with me :</h3>
 <p align="left">
