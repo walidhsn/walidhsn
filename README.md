@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Building a production IaaS with OpenStack**
 
-- 🤝 I’m looking for a **End-of-studies Internship**
+- 🤝 I’m looking for an **End-of-studies Internship**
 
 - 📫 How to reach me **walid.benhassouna@gmail.com**
 
