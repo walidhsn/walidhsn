@@ -1,4 +1,4 @@
-[![MasterHead](https://criterionsystems.co.uk/wp-content/uploads/2017/08/banner6-1028x300.jpg)](https://rishavchanda.io)
+[![MasterHead](https://images.pexels.com/photos/325229/pexels-photo-325229.jpeg?cs=srgb&dl=pexels-artunchained-325229.jpg&fm=jpg)](https://rishavchanda.io)
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=1000&color=F7A21D&center=true&random=false&width=500&height=70&lines=Hi+there+%F0%9F%91%8B;I'm+Walid+Ben+Hassouna" alt="Typing SVG" /></a></div>
 <h3 align="center">A dedicated Computer Science Engineering student specializing in IT Architecture & Cloud Computing</h3>
