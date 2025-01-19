@@ -18,7 +18,7 @@
 </p>
 
 <h3 align="left">  🧰Languages and Tools :</h3>
-<p align="left"> <img src="https://skillicons.dev/icons?i=bash,idea,pycharm,phpstorm,vscode,visualstudio,vim,linux,ubuntu,kali,postman,bootstrap,tailwind,threejs,html,css,js,react,vite,nodejs,express,mongodb,npm,mysql,arduino,symfony,c,cpp,cs,dotnet,java,spring,angular,graphql,qt,php,py,opencv,git,kubernetes,docker,ansible,prometheus,grafana,openstack,kafka,azure,ps,ai"/><br> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=bash,idea,pycharm,phpstorm,vscode,visualstudio,vim,linux,ubuntu,kali,postman,bootstrap,tailwind,threejs,html,css,js,react,vite,nodejs,express,mongodb,npm,mysql,arduino,symfony,go,c,cpp,cs,dotnet,java,spring,angular,graphql,qt,php,py,opencv,git,kubernetes,docker,ansible,prometheus,grafana,terraform,openstack,kafka,azure,aws,gitlab,ps,ai"/><br> </p>
 <br/>
 <hr/>
 <div align="left">
