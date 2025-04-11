@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=walidhsn&label=Profile%20views&color=0e75b6&style=flat" alt="walidhsn" /> </p>
 <p align="left"><a href="https://walidhsn.netlify.app"> <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a></p>
 
-- 🔭 I’m currently working on **Building a production IaaS with OpenStack**
+- 🔭 I’m currently preparing for **CKA/CKAD Certifications** ☸️👨‍💻
 
 - 🤝 I’m looking for an **End-of-studies Internship**
 
