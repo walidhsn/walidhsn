@@ -8,8 +8,6 @@
 
 - 🔭 I’m currently preparing for **CKA/CKAD Certifications** ☸️👨‍💻
 
-- 🤝 I’m looking for an **End-of-studies Internship**
-
 - 📫 How to reach me **walid.benhassouna@gmail.com**
 
 <h3 align="left"> 💬Connect with me :</h3>
